@@ -36,4 +36,18 @@ DIVIDE(
     0
 )
 ```
+## Dashboard View
+<img width="1954" height="1104" alt="image" src="https://github.com/user-attachments/assets/51c5e01f-2c98-48ac-8436-3ff688792fa9" />
 
+1. Executive Summary: High-level KPIs detailing total transaction volume versus total fraud value.
+
+2. Vector Analysis: Visual breakdown of fraud distribution across transfers, cash-outs, and payments.
+
+3. Live Threat Matrix: A drill-through capable table isolating the most recent fraudulent transaction origins, destinations, and monetary values for immediate analyst triage.
+
+## Technical Stack
+- Business Intelligence: Power BI (DAX, Power Query, Data Modeling)
+
+- Data Engineering Foundation: Python, PySpark, SQLite
+
+- Analytics Focus: Risk Management, Fraud Detection, SecOps Telemetry
