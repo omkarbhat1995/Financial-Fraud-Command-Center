@@ -1,4 +1,6 @@
 # Financial Fraud Command Center: SecOps Analytics
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
 
 ## Project Overview
 This repository contains an enterprise-grade Power BI command center designed for Security Operations (SecOps) and Risk Management teams. Built on top of a simulated financial transaction database, this dashboard transforms raw telemetry into actionable intelligence, enabling analysts to identify anomalous behavior, track system accuracy, and monitor multi-vector fraud attempts.
