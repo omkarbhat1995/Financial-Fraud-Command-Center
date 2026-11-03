@@ -51,3 +51,6 @@ DIVIDE(
 - Data Engineering Foundation: Python, PySpark, SQLite
 
 - Analytics Focus: Risk Management, Fraud Detection, SecOps Telemetry
+
+## Data Source
+The data used in this project is the **[PaySim Synthetic Financial Transactions Dataset](https://www.kaggle.com/datasets/tatapudibhaskar/paysim-synthetic-financial-transactions-dataset/data)**, sourced from Kaggle. PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country.
